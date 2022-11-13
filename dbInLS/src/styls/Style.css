@@ -1,0 +1,42 @@
+.backgroundLoginPage{
+    background: #f7f7f7;
+    margin-top: 13%;
+}
+
+.backgroundRegisterPage{
+    background: #f7f7f7;
+    margin-top: 10%;
+}
+
+.addContainerStyle{
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+
+.userNameInput{
+    margin-top: 1%;
+}
+
+.passwordInput{
+    margin-top: 0.5%;
+}
+
+.loginButton{
+    width: auto;
+    margin-bottom: 2%;
+    margin-right: 1%;
+}
+
+.registerButton{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 22%;
+}
+
+.addStyleFourContainerRegister{
+    margin-top: 10%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
